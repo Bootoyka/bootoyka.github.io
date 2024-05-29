@@ -63,3 +63,45 @@ footer {
     background-color: #001F3F;
     color: #fff;
 }
+
+.experience-item {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.experience-item h3 {
+    margin-top: 0;
+    color: #001F3F;
+}
+
+.experience-item span {
+    display: block;
+    margin-bottom: 10px;
+    font-style: italic;
+    color: #666;
+}
+
+.experience-item p {
+    margin: 0;
+}
+
+.experience-item small {
+    display: block;
+    margin-top: 10px;
+    font-style: italic;
+    color: #999;
+    text-align: right;
+}
+
+.intro-text {
+    font-size: 1em;
+    font-style: italic;
+    color: #555;
+    margin-bottom: 20px;
+    padding: 10px;
+    background: #f9f9f9;
+}
